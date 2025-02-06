@@ -2,6 +2,7 @@
     font-family: 'Montserrat';
     src: url('./assets/font/Montserrat-Medium.ttf');
 }
+
 @font-face {
   font-family: 'Montserrat-Light';
   src: url('./assets/font/Montserrat-ExtraLight.ttf');
@@ -16,7 +17,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Montserrat';
-  scroll-behavior: smooth;
 }
 
 :root{
